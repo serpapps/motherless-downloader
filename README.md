@@ -2,26 +2,19 @@
 
 
 ## Related
--
 
 ---
-
 <details>
-
 <summary>
   Research
 </summary>
-
 # How to Download Motherless Videos: Technical Analysis of Stream Patterns, CDNs, and Download Methods
-
 *A comprehensive research document analyzing Motherless's video infrastructure, embed patterns, stream formats, and optimal download strategies using modern tools*
-
 **Authors**: SERP Apps  
 **Date**: December 2025  
 **Version**: 1.0
-
 ---
-
+- [Motherless Downloader gist](https://gist.github.com/devinschumacher/8634de51e22018329787aa173e55ecbe)
 ## Abstract
 
 This document details Motherless watch pages, inline player configuration blocks, and CDN URL patterns for MP4 delivery.
